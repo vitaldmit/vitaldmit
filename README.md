@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm actively looking for a job.
+I'm Python developer.
 
 <!--
 **vitaldmit/vitaldmit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
