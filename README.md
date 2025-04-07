@@ -7,9 +7,12 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitaldmit&layout=compact)](https://github.com/vitaldmit/github-readme-stats)
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=vitaldmit&show_icons=true&theme=radical)
-
 ![Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<p>
+  <img src = "https://github-readme-stats.vercel.app/api?username=vitaldmit&show_icons=true&" width = 400>
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=vitaldmit&hide_border=true" width = 400>
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=vitaldmit&theme=onedark)](https://github.com/vitaldmit/github-profile-trophy)
 
